@@ -3,6 +3,8 @@ code.rfid
 #build.log
 {signal/scan
 #copy_info
+-crédit/Cvv.bin
+{dump-save
 
  
 
