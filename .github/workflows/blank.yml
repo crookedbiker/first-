@@ -1,4 +1,4 @@
--signal/
+#signal-scan
 code.rfid
 #build.log
 {signal/scan
